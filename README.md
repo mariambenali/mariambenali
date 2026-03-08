@@ -1,8 +1,7 @@
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mariambenali?label=Followers&style=for-the-badge&color=b364a3" />
-  <img src="https://komarev.com/ghpvc/?user=mariambenali&color=b364a3&style=for-the-badge&label=Profile+Views" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mariambenali/mariambenali/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Mariam BENALI</h1>
