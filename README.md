@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mariambenali/mariambenali/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Mariam BENALI</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
