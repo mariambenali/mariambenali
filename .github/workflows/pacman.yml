@@ -1,22 +1,29 @@
 name: Generate Pacman Animation
 
 on:
-  schedule: 
-    - cron: "0 */12 * * *"
-  workflow_dispatch: 
+  # Exécution automatique toutes les 12 heures
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Permet de lancer l'animation manuellement depuis l'onglet Actions
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
+      # Génère l'animation Pacman à partir de ton historique de contributions
       - name: generate-snake-game-from-github-contribution-grid
         uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#b364a3&color_dots=#161b22,#f3daed,#e1a7d2,#c77cb5,#b364a3
-            
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#b364a3&color_dots=#161b22,#f3daed,#e1a7d2,#c77cb5,#b364a3
+
+      # Pousse le fichier SVG généré vers la branche 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
