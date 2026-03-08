@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mariambenali/mariambenali/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" />
+  <img src="https://raw.githubusercontent.com/mariambenali/mariambenali/output/github-contribution-grid-snake-dark.svg?color=#b364a3" alt="Pacman Animation" />
 </div>
 
 
