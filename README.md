@@ -129,10 +129,8 @@
 
 **Tools & Frameworks:**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
@@ -164,8 +162,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF2D78?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
 
 </td>
 </tr>
@@ -177,20 +174,7 @@
 
 <!-- ══════════════════════════════════════════════════════════════════
      FEATURED PROJECTS
-══════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mariambenali/neural-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariambenali&repo=neural-forge&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
-</a>
-<a href="hhttps://github.com/mariambenali/rag-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariambenali&repo=rag-engine&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
-</a>
-
-</div>
 
 <br/>
 
