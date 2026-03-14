@@ -20,7 +20,7 @@
 
 > 🤖 **AI Engineer** obsessed with turning data into intelligent systems.
 > I build **LLMs, RAG pipelines, and real-time ML infrastructure** that scale.
-> Currently exploring **multi-modal AI & agentic systems** · Open to collaborations & OSS contributions.
+> Currently exploring **multi-modal AI & agentic systems** · Open to collaborations ·
 
 `📍 Available for Contributing` &nbsp; &nbsp;·&nbsp; `⚡ Backend + AI Combo`
 
