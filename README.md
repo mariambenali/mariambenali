@@ -15,16 +15,15 @@
 <div align="center">
 
 <!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF2D78&center=true&vCenter=true&width=700&lines=An+AI+Engineer+%26+Full-Stack+Architect;Crafting+Intelligent+Solutions+at+Scale;RAG+%7C+LLMs+%7C+MLOps+%7C+Backend+Systems;Turning+Research+Papers+into+Production+Code)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=An+AI+Engineer+%26+Full-Stack+Architect;Crafting+Intelligent+Solutions+at+Scale;RAG+%7C+LLMs+%7C+MLOps+%7C+Backend+Systems;Turning+Research+Papers+into+Production+Code)](https://git.io/typing-svg)
 <!-- ── BIO ── -->
 <br/>
 
-> 🤖 **AI Engineer** obsessed with turning research papers into production-grade systems.
+> 🤖 **AI Engineer** obsessed with turning data into intelligent systems.
 > I build **LLMs, RAG pipelines, and real-time ML infrastructure** that scale.
 > Currently exploring **multi-modal AI & agentic systems** · Open to collaborations & OSS contributions.
 
-`📍 Available for AI Consulting` &nbsp;·&nbsp; `🚀 3+ yrs in ML Systems` &nbsp;·&nbsp; `⚡ Backend + AI Combo`
+`📍 Available for Contributing` &nbsp; &nbsp;·&nbsp; `⚡ Backend + AI Combo`
 
 <br/>
 
@@ -42,12 +41,12 @@
 
 <a href="https://github.com/mariambenali">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF2D78&title_color=FF2D78&icon_color=FF6BA8&text_color=c0c0c0&bg_color=0d0d0d"
+       src="https://github-readme-stats.vercel.app/api?username=mariambenali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF2D78&title_color=FF2D78&icon_color=FF6BA8&text_color=c0c0c0&bg_color=0d0d0d"
        alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/mariambenali">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&border_color=FF2D78&title_color=FF2D78&text_color=c0c0c0&bg_color=0d0d0d"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariambenali&layout=compact&langs_count=7&theme=radical&border_color=FF2D78&title_color=FF2D78&text_color=c0c0c0&bg_color=0d0d0d"
        alt="Top Languages"/>
 </a>
 
@@ -185,10 +184,10 @@
 <div align="center">
 
 <a href="https://github.com/mariambenali/neural-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=neural-forge&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariambenali&repo=neural-forge&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
 </a>
 <a href="hhttps://github.com/mariambenali/rag-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=rag-engine&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariambenali&repo=rag-engine&theme=radical&border_color=FF2D78&bg_color=0d0d0d&title_color=FF2D78&text_color=c0c0c0&icon_color=FF6BA8" />
 </a>
 
 </div>
@@ -198,20 +197,7 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH
-══════════════════════════════════════════════════════════════════ -->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d0d&color=FF6BA8&line=FF2D78&point=ffffff&area=true&hide_border=false&border_color=FF2D78)](https://github.com/mariambenali)
-
-</div>
-
-<br/>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════════
      TECH STACK (FULL)
