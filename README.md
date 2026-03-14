@@ -4,8 +4,7 @@
 </div>
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F793DC&center=true&width=435&lines=MARIAM+BENALI)](https://git.io/typing-svg)
-
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  GITHUB PROFILE — README.md                   -->
@@ -15,7 +14,7 @@
 <div align="center">
 
 <!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=An+AI+Engineer+%26+Full-Stack+Architect;Crafting+Intelligent+Solutions+at+Scale;RAG+%7C+LLMs+%7C+MLOps+%7C+Backend+Systems;Turning+Research+Papers+into+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=F793DC&center=true&vCenter=true&width=700&lines=An+AI+Engineer+%26+Full-Stack+Architect;Crafting+Intelligent+Solutions+at+Scale;RAG+%7C+LLMs+%7C+MLOps+%7C+Backend+Systems;Turning+Research+Papers+into+Production+Code)](https://git.io/typing-svg)
 <!-- ── BIO ── -->
 <br/>
 
