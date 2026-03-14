@@ -41,19 +41,19 @@
 
 <a href="https://github.com/mariambenali">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mariambenali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF2D78&title_color=FF2D78&icon_color=FF6BA8&text_color=c0c0c0&bg_color=0d0d0d"
+       src="https://github-readme-stats.vercel.app/api?username=mariambenali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=F793DC&title_color=F793DC&icon_color=FF6BA8&text_color=c0c0c0&bg_color=0d0d0d"
        alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/mariambenali">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariambenali&layout=compact&langs_count=7&theme=radical&border_color=FF2D78&title_color=FF2D78&text_color=c0c0c0&bg_color=0d0d0d"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariambenali&layout=compact&langs_count=7&theme=radical&border_color=F793DC&title_color=F793DC&text_color=c0c0c0&bg_color=0d0d0d"
        alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/mariambenali">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border=FF2D78&ring=FF2D78&fire=FF6BA8&currStreakLabel=FF2D78&background=0d0d0d&stroke=1e1e1e"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border=F793DC&ring=F793DC&fire=F793DC&currStreakLabel=F793DC&background=0d0d0d&stroke=F793DC"
        alt="GitHub Streak"/>
 </a>
 
